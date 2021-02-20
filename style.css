@@ -65,6 +65,10 @@ a.skyday:active {
   text-decoration: underline;
 }
 
+small {
+  color: navy;
+}
+
 input,
 select,
 textarea {
